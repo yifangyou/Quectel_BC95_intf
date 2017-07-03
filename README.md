@@ -1,1 +1,2 @@
-# Quectel_BC95_intf
+# 20170505_1
+Quectel BC95 interface
